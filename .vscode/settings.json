@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "myvenv/bin/python3"
+    "python.pythonPath": "myvenv/bin/python3",
+    "[python]": {
+        "editor.rulers": [
+            79,
+            120
+        ]
+    }
 }
